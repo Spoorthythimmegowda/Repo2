@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 2290-DD03
-
- Directory of C:\Users\HP\Desktop\MyGitProject
-
-18-01-2024  16:02    <DIR>          .
-18-01-2024  16:00    <DIR>          ..
-18-01-2024  16:02                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   4,228,509,696 bytes free
+change 1
